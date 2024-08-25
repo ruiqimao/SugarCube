@@ -104,4 +104,4 @@ The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.c
 | 120mm x 120mm aluminum bed | 1 | [DFH](https://dfh.fm/products/ultra-flat-aluminum-beds-for-ants-by-lightweight-labware) |
 | 120mm x 120mm magnet sheet | 1 | [McMaster-Carr](https://www.mcmaster.com/7301T25/) (cut to size) |
 | 120mm x 120mm spring steel sheet | 1 | [Fabreeko](https://www.fabreeko.com/products/open-beta-semi-satin-thin-dual-sided-textured-beds-by-honeybadger) |
-| 3mm cork sheet | as needed | [Amazon](https://www.amazon.com/gp/product/B0CFKTGZSB/) |
+| 3mm cork sheet | As needed | [Amazon](https://www.amazon.com/gp/product/B0CFKTGZSB/) |
