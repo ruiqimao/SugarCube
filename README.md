@@ -19,3 +19,7 @@ Bill of materials can be found at [BOM.md](BOM.md).
 ## Acknowledgements
 
 * @hartk for the render at the top
+
+## License
+
+SugarCube is licensed under CC-BY-NC-SA-4.0. More details can be found at [LICENSE.md](LICENSE.md).
