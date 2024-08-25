@@ -12,6 +12,19 @@ SugarCube is a compact, fully enclosed 3D printer, featuring:
 * NEMA17 XY motors
 * Compatible with [Archetype toolhead ecosystem](https://github.com/Armchair-Heavy-Industries/Archetype)
 
+## Dimensions
+
+### Build area
+* 120mm x 120mm x 120mm
+
+### Travel area
+* Archetype Blackbird: 126mm x 122mm
+
+### Outer dimensions
+
+* Excluding door handles: 272mm x 272mm x 395 mm
+* Including door handles: 272mm x 280mm x 395mm
+
 ## BOM
 
 Bill of materials can be found at [BOM.md](BOM.md).
