@@ -63,6 +63,7 @@ The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.c
 | F695 bearing | 2 | [Misumi](https://us.misumi-ec.com/vona2/detail/221000528976/) |
 | 3mm x 27mm pin | 10 | [Misumi](https://us.misumi-ec.com/vona2/detail/110100140710/) (cut to size) |
 | 5mm x 27mm pin | 9 | [Misumi](https://us.misumi-ec.com/vona2/detail/110100140710/) (cut to size) |
+| 1164mm closed loop GT2 belt | 2 | [Misumi](https://us.misumi-ec.com/vona2/detail/221004924958/?HissuCode=1164-2GT-6) |
 | 20 tooth GT2 idler | 6 | [McMaster-Carr](https://www.mcmaster.com/3693N11/) |
 | 20 tooth GT2 pulley | 2 | [McMaster-Carr](https://www.mcmaster.com/3684N12/) |
 
