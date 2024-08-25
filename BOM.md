@@ -87,6 +87,7 @@ Heater should be AC-powered and be at least 100W.
 | 5015 axial fan | 2 | [DigiKey](https://www.digikey.com/en/products/detail/delta-electronics/AFB0524HHB/2560406) |
 | 5015 blower fan | 1 | [DigiKey](https://www.digikey.com/en/products/detail/delta-electronics/BFB0524HH/1014447) |
 | Fysetc S6 | 1 | [AliExpress](https://www.aliexpress.us/item/2255800159054476.html) |
+| TMC5160 stepstick | 6 | [Watterott](https://shop.watterott.com/SilentStepStick-TMC5160-Stepper-motor-driver-HV-V15) |
 | Beacon Rev H | 1 | [Beacon](https://beacon3d.com/product/beacon-h/) |
 
 ## Miscellaneous
