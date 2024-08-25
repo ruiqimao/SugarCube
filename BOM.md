@@ -58,7 +58,8 @@ The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.c
 | MGN7H-150 linear rail | 5 | [AliExpress (Youmetong)](https://www.aliexpress.us/item/3256801304880853.html) |
 | MGN9H-200 linear rail | 1 | [AliExpress (Youmetong)](https://www.aliexpress.us/item/3256801245010834.html) |
 | NEMA17 stepper motor (33mm shaft minimum | 2 | [MagicPhoenix](https://magicphoenix.xyz/product/moons-ms17hd6p4200-with-38mm-shaft/) |
-| NEMA17 stepper motor w/ 150mm leadscrew | 3 | [Amazon](https://www.amazon.com/dp/B07YQLVZ86/) |
+| NEMA17 stepper motor w/ 150mm TR8x8 leadscrew | 3 | [Amazon](https://www.amazon.com/dp/B07YQLVZ86/) |
+| POM TR8x8 leadscrew nut | 3 | [Amazon](https://www.amazon.com/gp/product/B07RJT1GD8/) |
 | F623 bearing | 24 | [Misumi](https://us.misumi-ec.com/vona2/detail/221000528976/) |
 | F695 bearing | 2 | [Misumi](https://us.misumi-ec.com/vona2/detail/221000528976/) |
 | 3mm x 27mm pin | 10 | [Misumi](https://us.misumi-ec.com/vona2/detail/110100140710/) (cut to size) |
