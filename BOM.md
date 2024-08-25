@@ -47,6 +47,10 @@ A bed heater drawing is available at [Drawings/Bed Heater.pdf](Drawings/Bed%20He
 
 Heater should be AC-powered and be at least 100W.
 
+## Toolhead
+
+The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.com/Armchair-Heavy-Industries/Archetype). This document does not contain materials needed for the toolhead.
+
 ## Motion
 
 | Part | Quantity | Link |
