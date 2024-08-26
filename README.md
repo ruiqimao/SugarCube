@@ -19,8 +19,8 @@ SugarCube is a compact, fully enclosed 3D printer, featuring:
 
 ### Outer dimensions
 
-* Excluding door handles: 272mm x 272mm x 395 mm
-* Including door handles: 272mm x 280mm x 395mm
+* Panel to panel: 272mm x 272mm x 395 mm
+* With door handles and reverse bowden: 272mm x 288mm x 395mm
 
 ## BOM
 
