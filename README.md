@@ -14,9 +14,6 @@ SugarCube is a compact, fully enclosed 3D printer, featuring:
 
 ## Dimensions
 
-### Build area
-* 120mm x 120mm x 120mm
-
 ### Travel area
 * Archetype Blackbird: 126mm x 122mm
 
