@@ -1,6 +1,4 @@
-# SugarCube
-
-![Render](Images/Render.png)
+![Banner](Images/Banner.png)
 
 SugarCube is a compact, fully enclosed 3D printer, featuring:
 
@@ -28,8 +26,10 @@ Bill of materials can be found at [BOM.md](BOM.md).
 
 ## Acknowledgements
 
-* @hartk for the render at the top
+* @hartk for the renders
 
 ## License
 
 SugarCube is licensed under CC-BY-NC-SA-4.0. More details can be found at [LICENSE.md](LICENSE.md) and [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Render](Images/Render.png)
