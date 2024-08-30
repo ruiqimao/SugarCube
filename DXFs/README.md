@@ -44,6 +44,8 @@ The highlighted holes should be countersunk 90°:
   * 3 rail carriage holes
 * `Motor_Plate_Bottom`
   * 1 center hole
+* `Mid_Panel`
+  * All holes
 
 ## Reamed holes
 
