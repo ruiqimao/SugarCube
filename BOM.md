@@ -30,6 +30,10 @@ Heater should be AC-powered and be at least 100W.
 
 The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.com/Armchair-Heavy-Industries/Archetype). This document does not contain materials needed for the toolhead.
 
+## Panels
+
+Side and back panels should be constructed using a sandwich of 3.2mm aluminum, 3mm cork, and foil tape. This provides both insulation and sound dampening.
+
 ## Motion
 
 | Part | Quantity | Link |
@@ -86,3 +90,5 @@ The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.c
 | 120mm x 120mm magnet sheet | 1 | [McMaster-Carr](https://www.mcmaster.com/7301T25/) (cut to size) |
 | 120mm x 120mm spring steel sheet | 1 | [Fabreeko](https://www.fabreeko.com/products/open-beta-semi-satin-thin-dual-sided-textured-beds-by-honeybadger) |
 | 3mm cork sheet | As needed | [Amazon](https://www.amazon.com/gp/product/B0CFKTGZSB/) |
+| 15.5mm x 3mm ID x 4mm OD PTFE tube | 2 | [Amazon](https://www.amazon.com/dp/B07B8CK8L9/) |
+| Foil tape | As needed | [Amazon](https://www.amazon.com/dp/B0CNSXHK5C) |
