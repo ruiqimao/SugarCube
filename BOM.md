@@ -59,6 +59,7 @@ Side and back panels should be constructed using a sandwich of 3.2mm aluminum, 3
 | M2x5 FHCS | 8 | [McMaster-Carr](https://www.mcmaster.com/91294A003/) |
 | M2x6 BHCS | 30 | [McMaster-Carr](https://www.mcmaster.com/90128A179/) |
 | M2x8 BHCS | 12 | [McMaster-Carr](https://www.mcmaster.com/90128A178/) |
+| M4x6 BHCS | 2 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15636) |
 | M5x30 BHCS | 4 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15651) |
 | M3 heatset insert | Many | [McMaster-Carr](https://www.mcmaster.com/94180A331/) |
 | M5 heatset insert | 4 | [McMaster-Carr](https://www.mcmaster.com/94180A361/) |
