@@ -2,12 +2,7 @@
 
 ## Printed parts
 
-All required printed parts can be found in [STLs/](STLs). Parts are recommended to be printed in ASA or PC.
-
-Parts are named according to Voron naming convention:
-* Files prefixed with `[a]_` should be printed in an accent color.
-* Files suffixed with `_x*` should be printed in the specified quantity.
-* Files with no `_x*` suffix should be printed once.
+All required printed parts can be found in [STLs/](STLs). See the README in the folder for details.
 
 ## Laser cut parts
 
