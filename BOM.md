@@ -11,23 +11,7 @@ Parts are named according to Voron naming convention:
 
 ## Laser cut parts
 
-DXFs for all required laser cut parts can be found in [DXFs/](DXFs).
-
-| Part | Material | Thickness | Quantity |
-|:-|:-:|:-:|:-:|
-| Mid_Panel | Aluminum | 2mm | 2 |
-| Deck_Panel | Aluminum | 3.2mm | 1 |
-| Side_Panel | Aluminum | 3.2mm | 2 |
-| Back_Top_Panel | Aluminum | 3.2mm | 1 |
-| Back_Bottom_Panel | Aluminum | 3.2mm | 1 |
-| Idler_Plate | Aluminum | 3.2mm | 4 |
-| XY_Plate_A | Aluminum | 3.2mm | 2 |
-| XY_Plate_B | Aluminum | 3.2mm | 2 |
-| Motor_Top_Plate | Aluminum | 3.2mm | 1 |
-| Motor_Bottom_Plate | Aluminum | 3.2mm | 1 |
-| Tensioner_Plate | Aluminum | 3.2mm | 2 |
-| Front_Door | Polycarbonate | 4.5mm | 1 |
-| Top_Panel | Polycarbonate | 6mm | 1 |
+DXFs for all required laser cut parts can be found in [DXFs/](DXFs). See the README in the folder for details.
 
 ## Frame
 
