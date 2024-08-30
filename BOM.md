@@ -10,7 +10,7 @@ DXFs for all required laser cut parts can be found in [DXFs/](DXFs). See the REA
 
 ## Frame
 
-All drawings for the frame are available in [Drawings/](Drawings), named `Extrusion_*.pdf`. These drawings can be used to request a custom order at [DLLPDF](https://dllpdf.com).
+Drawings for the frame are available at [Drawings/Frame Extrusions.pdf](Drawings/Frame%20Extrusions.pdf). These drawings can be used to request a custom order at [DLLPDF](https://dllpdf.com).
 
 | Part | Quantity |
 |:-|:-:|
