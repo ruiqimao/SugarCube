@@ -46,6 +46,8 @@ The highlighted holes should be countersunk 90°:
   * 1 center hole
 * `Mid_Panel`
   * All holes
+* `Front_Door`
+  * 4 left holes and 2 rightmost holes
 
 ## Reamed holes
 
