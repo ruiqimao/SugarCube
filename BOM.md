@@ -28,6 +28,8 @@ Heater should be AC-powered and be at least 100W.
 
 ## Toolhead
 
+SugarCube supports toolheads with belts facing outwards and spaced 10mm from the X extrusion (standard PFA). Belts are spaced 4mm apart (non-standard PFA).
+
 The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.com/Armchair-Heavy-Industries/Archetype). This document does not contain materials needed for the toolhead.
 
 ## Panels
