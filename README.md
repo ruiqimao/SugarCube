@@ -27,6 +27,8 @@ Bill of materials can be found at [BOM.md](BOM.md).
 ## Acknowledgements
 
 * @hartk for the renders
+* @izziec for artistic inspration
+* @caza0455 and @burgo_enemy_of_thelettuce for pre-release review
 
 ## License
 
