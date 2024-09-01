@@ -33,15 +33,15 @@ The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.c
 
 ## Panels
 
-Side and back panels should be constructed using a sandwich of 3.2mm aluminum, 3mm cork, and foil tape. This provides both insulation and sound dampening.
-
-The front panel requires ~1.5mm-2mm of foam for sealing.
-
 | Part | Quantity | Link |
 |:-|:-:|:-|
 | 3mm cork sheet | As needed | [Amazon](https://www.amazon.com/gp/product/B0CFKTGZSB/) |
 | Foil tape | As needed | [Amazon](https://www.amazon.com/dp/B0CNSXHK5C) |
 | 15mm x 2mm foam tape | As needed | [Amazon](https://www.amazon.com/dp/B07L69KY7X) |
+
+Side and back panels should be constructed using a sandwich of 3.2mm aluminum, 3mm cork, and foil tape. This provides both insulation and sound dampening.
+
+The front panel requires ~1.5mm-2mm of foam for sealing.
 
 ## Motion
 
