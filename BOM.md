@@ -22,6 +22,9 @@ Drawings for the frame are available at [Drawings/Frame Extrusions.pdf](Drawings
 
 ## Bed heater
 
+> [!WARNING]
+> The bed heater drawing is untested.
+
 A bed heater drawing is available at [Drawings/Bed Heater.pdf](Drawings/Bed%20Heater.pdf), which can be used to request a custom order at [Keenovo](https://www.keenovo.com/). Alternatively, a standard 100mm x 100mm or Voron 0 bed heater can be used as well.
 
 Heater should be AC-powered and be at least 100W.
