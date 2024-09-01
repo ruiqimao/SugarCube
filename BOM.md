@@ -34,6 +34,14 @@ The recommended toolhead for SugarCube is [Archetype Blackbird](https://github.c
 
 Side and back panels should be constructed using a sandwich of 3.2mm aluminum, 3mm cork, and foil tape. This provides both insulation and sound dampening.
 
+The front panel requires ~1.5mm-2mm of foam for sealing.
+
+| Part | Quantity | Link |
+|:-|:-:|:-|
+| 3mm cork sheet | As needed | [Amazon](https://www.amazon.com/gp/product/B0CFKTGZSB/) |
+| Foil tape | As needed | [Amazon](https://www.amazon.com/dp/B0CNSXHK5C) |
+| 15mm x 2mm foam tape | As needed | [Amazon](https://www.amazon.com/dp/B07L69KY7X) |
+
 ## Motion
 
 | Part | Quantity | Link |
@@ -87,9 +95,7 @@ Side and back panels should be constructed using a sandwich of 3.2mm aluminum, 3
 | 10mm x 3mm countersunk N52 magnet pair | 8 pairs | [K&J Magnetics](https://www.kjmagnetics.com/proddetail.asp?prod=R622CS-P-N52) |
 | Rubber grommet | 2 | [McMaster-Carr](https://www.mcmaster.com/9307K65/) |
 | 38mm x 19mm rubber feet | 4 | [KB3D](https://kb-3d.com/store/hardware/458-rubber-machine-foot-amplifier-38mm-x-19mm-set-of-4-1642262899696.html) |
+| 15.5mm x 3mm ID x 4mm OD PTFE tube | 2 | [Amazon](https://www.amazon.com/dp/B07B8CK8L9/) |
 | 120mm x 120mm aluminum bed | 1 | [DFH](https://dfh.fm/products/ultra-flat-aluminum-beds-for-ants-by-lightweight-labware) |
 | 120mm x 120mm magnet sheet | 1 | [McMaster-Carr](https://www.mcmaster.com/7301T25/) (cut to size) |
 | 120mm x 120mm spring steel sheet | 1 | [Fabreeko](https://www.fabreeko.com/products/open-beta-semi-satin-thin-dual-sided-textured-beds-by-honeybadger) |
-| 3mm cork sheet | As needed | [Amazon](https://www.amazon.com/gp/product/B0CFKTGZSB/) |
-| 15.5mm x 3mm ID x 4mm OD PTFE tube | 2 | [Amazon](https://www.amazon.com/dp/B07B8CK8L9/) |
-| Foil tape | As needed | [Amazon](https://www.amazon.com/dp/B0CNSXHK5C) |
