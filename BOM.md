@@ -10,15 +10,11 @@ DXFs for all required laser cut parts can be found in [DXFs/](DXFs). See the REA
 
 ## Frame
 
-Drawings for the frame are available at [Drawings/Frame Extrusions.pdf](Drawings/Frame%20Extrusions.pdf). These drawings can be used to request a custom order at [DLLPDF](https://dllpdf.com).
+| Part | Quantity | Link |
+|:-|:-:|:-|
+| SugarCube Frame | 1 | [DLLPDF](https://dllpdf.com/sugarcube-frame) |
 
-| Part | Quantity |
-|:-|:-:|
-| Extrusion A | 4 |
-| Extrusion B | 21 |
-| Extrusion C | 1 |
-| Extrusion D | 1 |
-| Extrusion E | 1 |
+Drawings for the frame are available at [Drawings/Frame Extrusions.pdf](Drawings/Frame%20Extrusions.pdf).
 
 ## Bed heater
 
