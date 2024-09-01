@@ -30,6 +30,10 @@ Bill of materials can be found at [BOM.md](BOM.md).
 * @izziec for artistic inspiration
 * @caza0455 and @burgo_enemy_of_thelettuce for pre-release review
 
+## User Mods
+
+Please submit any user mods at [SugarCube-UserMods](https://github.com/ruiqimao/SugarCube-UserMods).
+
 ## License
 
 SugarCube is licensed under CC-BY-NC-SA-4.0. More details can be found at [LICENSE.md](LICENSE.md) and [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
