@@ -48,7 +48,7 @@ The front panel requires ~1.5mm-2mm of foam for sealing.
 |:-|:-:|:-|
 | MGN7H-150 linear rail | 5 | [AliExpress (Youmetong)](https://www.aliexpress.us/item/3256801304880853.html) |
 | MGN9H-200 linear rail | 1 | [AliExpress (Youmetong)](https://www.aliexpress.us/item/3256801245010834.html) |
-| NEMA17 stepper motor (33mm shaft minimum | 2 | [MagicPhoenix](https://magicphoenix.xyz/product/moons-ms17hd6p4200-with-38mm-shaft/) |
+| NEMA17 stepper motor (33mm shaft minimum | 2 |  | [StepperOnline](https://www.omc-stepperonline.com/nema-17-high-temp-stepper-motor-55ncm-77-93oz-in-55mm-round-shaft-insulation-class-h-180c-17hs19-2504s-h-v1)
 | NEMA17 stepper motor w/ 150mm TR8x8 leadscrew | 3 | [Amazon](https://www.amazon.com/dp/B07YQLVZ86/) |
 | POM TR8x8 leadscrew nut | 3 | [Amazon](https://www.amazon.com/gp/product/B07RJT1GD8/) |
 | F623 bearing | 24 | [Misumi](https://us.misumi-ec.com/vona2/detail/221000528976/) |
@@ -96,6 +96,6 @@ The front panel requires ~1.5mm-2mm of foam for sealing.
 | Rubber grommet | 2 | [McMaster-Carr](https://www.mcmaster.com/9307K65/) |
 | 38mm x 19mm rubber feet | 4 | [KB3D](https://kb-3d.com/store/hardware/458-rubber-machine-foot-amplifier-38mm-x-19mm-set-of-4-1642262899696.html) |
 | 15.5mm x 3mm ID x 4mm OD PTFE tube | 2 | [Amazon](https://www.amazon.com/dp/B07B8CK8L9/) |
-| 120mm x 120mm aluminum bed | 1 | [DFH](https://dfh.fm/products/ultra-flat-aluminum-beds-for-ants-by-lightweight-labware) |
+| 120mm x 120mm aluminum bed | 1 | [DFH](https://dfh.fm/products/ultra-flat-black-aluminum-beds-for-ants-by-lightweight-labware) |
 | 120mm x 120mm magnet sheet | 1 | [McMaster-Carr](https://www.mcmaster.com/7301T25/) (cut to size) |
 | 120mm x 120mm spring steel sheet | 1 | [Fabreeko](https://www.fabreeko.com/products/open-beta-semi-satin-thin-dual-sided-textured-beds-by-honeybadger) |
