@@ -59,20 +59,26 @@ The front panel requires ~1.5mm-2mm of foam for sealing.
 | 1164mm closed loop GT2 belt | 2 | [Misumi](https://us.misumi-ec.com/vona2/detail/221004924958/?HissuCode=1164-2GT-6) |
 | 20 tooth GT2 idler | 6 | [McMaster-Carr](https://www.mcmaster.com/3693N11/) |
 | 20 tooth GT2 pulley | 2 | [McMaster-Carr](https://www.mcmaster.com/3684N12/) |
+| 3x5x1 shim | 34 | [RCAmerica](https://www.rcamerica.com/alu-shim-3x5x1-0mm-10-303141) |
+| 5x7x0.5 shim | 12 | [RCAmerica](https://www.rcamerica.com/shim-5x7x0-5-10-338586) |
 
 ## Fasteners
 
 | Part | Quantity | Link |
 |:-|:-:|:-|
 | M3 hardware | Many | [Bolt Depot](https://boltdepot.com/) |
-| M2x5 FHCS | 8 | [McMaster-Carr](https://www.mcmaster.com/91294A003/) |
+| M2x5 FHCS | 6 | [McMaster-Carr](https://www.mcmaster.com/91294A003/) |
 | M2x6 BHCS | 30 | [McMaster-Carr](https://www.mcmaster.com/90128A179/) |
 | M2x8 BHCS | 12 | [McMaster-Carr](https://www.mcmaster.com/90128A178/) |
+| M2.5x4 SHCS | 4 | [McMaster-Carr](https://www.mcmaster.com/91292A015/) |
 | M4x6 BHCS | 2 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15636) |
 | M5x30 BHCS | 4 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15651) |
-| M3 heatset insert | Many | [McMaster-Carr](https://www.mcmaster.com/94180A331/) |
-| M5 heatset insert | 4 | [McMaster-Carr](https://www.mcmaster.com/94180A361/) |
+| M3 heatset insert | 36 | [McMaster-Carr](https://www.mcmaster.com/94180A331/) |
 | M3 square nut | 4 | [McMaster-Carr](https://www.mcmaster.com/97259A101/) |
+| M3 hex nut | 150 | [McMaster-Carr](https://www.mcmaster.com/90870A113/) |
+| M3 nylock | 6 | [McMaster-Carr](https://www.mcmaster.com/90576A102/) |
+| M4 knurled nut | 3 | [McMaster-Carr](https://www.mcmaster.com/90368A200/) |
+| M5 heatset insert | 4 | [McMaster-Carr](https://www.mcmaster.com/94180A361/) |
 | LDO M2 nut bar | 5 | [KB3D](https://kb-3d.com/store/frame-enclosure/401-ldo-t-nut-bar-kit-for-voron-v0-1639078625144.html) |
 
 ## Electronics
