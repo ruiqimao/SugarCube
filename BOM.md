@@ -6,7 +6,12 @@ All required printed parts can be found in [STLs/](STLs). See the README in the 
 
 ## Laser cut parts
 
-DXFs for all required laser cut parts can be found in [DXFs/](DXFs). See the README in the folder for details.
+DXFs for all required laser cut parts can be found in [DXFs/](DXFs). See the README in the folder for details. Prepopulated SendCutSend carts are also available.
+
+| Part | Quantity | Link |
+|:-|:-:|:-|
+| Gantry | 1 | [SendCutSend](https://cart.sendcutsend.com/yyqzdmpdw16p) |
+| Panels | 1 | [SendCutSend](https://cart.sendcutsend.com/oz1hrsx3vmoi) |
 
 ## Frame
 
