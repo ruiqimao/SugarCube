@@ -64,6 +64,9 @@ The front panel requires ~1.5mm-2mm of foam for sealing.
 
 ## Fasteners
 
+> [!WARNING]
+> Fastener counts have not been verified. Please buy extras!
+
 | Part | Quantity | Link |
 |:-|:-:|:-|
 | M2x5 FHCS | 6 | [McMaster-Carr](https://www.mcmaster.com/91294A003/) |
