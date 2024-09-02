@@ -59,8 +59,8 @@ The front panel requires ~1.5mm-2mm of foam for sealing.
 | 1164mm closed loop GT2 belt | 2 | [Misumi](https://us.misumi-ec.com/vona2/detail/221004924958/?HissuCode=1164-2GT-6) |
 | 20 tooth GT2 idler | 6 | [McMaster-Carr](https://www.mcmaster.com/3693N11/) |
 | 20 tooth GT2 pulley | 2 | [McMaster-Carr](https://www.mcmaster.com/3684N12/) |
-| 3x5x1 shim | 34 | [RCAmerica](https://www.rcamerica.com/alu-shim-3x5x1-0mm-10-303141) |
-| 5x7x0.5 shim | 12 | [RCAmerica](https://www.rcamerica.com/shim-5x7x0-5-10-338586) |
+| 3mm x 5mm x 1mm shim | 34 | [RCAmerica](https://www.rcamerica.com/alu-shim-3x5x1-0mm-10-303141) |
+| 5mm x 7mm x 0.5mm shim | 12 | [RCAmerica](https://www.rcamerica.com/shim-5x7x0-5-10-338586) |
 
 ## Fasteners
 
