@@ -66,11 +66,28 @@ The front panel requires ~1.5mm-2mm of foam for sealing.
 
 | Part | Quantity | Link |
 |:-|:-:|:-|
-| M3 hardware | Many | [Bolt Depot](https://boltdepot.com/) |
 | M2x5 FHCS | 6 | [McMaster-Carr](https://www.mcmaster.com/91294A003/) |
 | M2x6 BHCS | 30 | [McMaster-Carr](https://www.mcmaster.com/90128A179/) |
 | M2x8 BHCS | 12 | [McMaster-Carr](https://www.mcmaster.com/90128A178/) |
 | M2.5x4 SHCS | 4 | [McMaster-Carr](https://www.mcmaster.com/91292A015/) |
+| M3x6 BHCS | 56 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15629) |
+| M3x6 FHCS | 10 | [Bolt Depot](https://boltdepot.com/Product-Details?product=22621) |
+| M3x6 ULP | 4 | [McMaster-Carr](https://www.mcmaster.com/90358A001/) |
+| M3x8 BHCS | 8 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15630) |
+| M3x8 FHCS | 16 | [Bolt Depot](https://boltdepot.com/Product-Details?product=22622) |
+| M3x8 SHCS | 44 | [Bolt Depot](https://boltdepot.com/Product-Details?product=23064) |
+| M3x10 BHCS | 40 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15631) |
+| M3x10 SHCS | 10 | [Bolt Depot](https://boltdepot.com/Product-Details?product=23066) |
+| M3x12 BHCS | 14 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15632) |
+| M3x12 FHCS | 2 | [Bolt Depot](https://boltdepot.com/Product-Details?product=22624) |
+| M3x16 FHCS | 1 | [Bolt Depot](https://boltdepot.com/Product-Details?product=22625) |
+| M3x16 SHCS | 6 | [Bolt Depot](https://boltdepot.com/Product-Details?product=23067) |
+| M3x25 BHCS | 6 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15635) |
+| M3x25 SHCS | 2 | [Bolt Depot](https://boltdepot.com/Product-Details?product=23063) |
+| M3x30 SHCS | 12 | [Bolt Depot](https://boltdepot.com/Product-Details?product=23061) |
+| M3x35 BHCS | 2 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15293) |
+| M3x35 SHCS | 8 | [Bolt Depot](https://boltdepot.com/Product-Details?product=23069) |
+| M3x40 BHCS | 6 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15294) |
 | M4x6 BHCS | 2 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15636) |
 | M5x30 BHCS | 4 | [Bolt Depot](https://boltdepot.com/Product-Details?product=15651) |
 | M3 heatset insert | 36 | [McMaster-Carr](https://www.mcmaster.com/94180A331/) |
