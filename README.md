@@ -24,15 +24,15 @@ SugarCube is a compact, fully enclosed 3D printer, featuring:
 
 Bill of materials can be found at [BOM.md](BOM.md).
 
+## User Mods
+
+Please submit any user mods at [SugarCube-UserMods](https://github.com/ruiqimao/SugarCube-UserMods).
+
 ## Acknowledgements
 
 * @hartk for the renders
 * @izziec for artistic inspiration
 * @caza0455 and @burgo_enemy_of_thelettuce for pre-release review
-
-## User Mods
-
-Please submit any user mods at [SugarCube-UserMods](https://github.com/ruiqimao/SugarCube-UserMods).
 
 ## License
 
